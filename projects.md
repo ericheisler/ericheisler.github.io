@@ -7,15 +7,15 @@ title: Projects
 ### Classroom music teaching aid
 
 A device that processes audio input and provides real time visual feedback. It also features wireless remote control, audio output, and a unique LED display concept.
-<br>- [https://hackaday.io/project/9657-classroom-music-teaching-aid](The hackaday.io project page with detailed build log, components, demos, images, etc.)  
-<br>- [https://github.com/ericheisler/MusicTeachingAid"](The GitHub repository for code and diagrams.)
+<br>[https://hackaday.io/project/9657-classroom-music-teaching-aid](- The hackaday.io project page with detailed build log, components, demos, images, etc.)  
+<br>[https://github.com/ericheisler/MusicTeachingAid"](- The GitHub repository for code and diagrams.)
 <br>
 
 <h3>second project name</h3>
 
 A description
-<br>- [link](The project page)  
-<br>- [link](The GitHub repository)
+<br>[link](The project page)  
+<br>[link](The GitHub repository)
 <br>
 
 <h3>third project name</h3>
