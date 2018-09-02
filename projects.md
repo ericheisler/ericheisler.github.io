@@ -4,7 +4,7 @@ title: Projects
 
 ## A few of my projects
 
-###Classroom music teaching aid
+### Classroom music teaching aid
 
 A device that processes audio input and provides real time visual feedback. It also features wireless remote control, audio output, and a unique LED display concept.
 * [https://hackaday.io/project/9657-classroom-music-teaching-aid](The hackaday.io project page with detailed build log, components, demos, images, etc.)  
