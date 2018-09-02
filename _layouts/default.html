@@ -1,54 +1,76 @@
 <!doctype html>
-<html lang="en-US">
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
+
+
+    <style type="text/css">
+      .hyperlink a {font-family:Georgia,serif; font-size:large; text-decoration:underline}
+      .hyperlink a:link {color:white;}
+      .hyperlink a:visited {color:white;}
+      .hyperlink a:hover {text-decoration:none;color:yellowgreen;font-weight:bold;}
+      .hyperlink a:active {color:white;}
+    </style>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-	
-	<title>Eric Heisler</title>
-
-    <link rel="stylesheet" href="/dinky/assets/css/style.css?v=29a3ba0409c7935a0ca6ff45666e7d5f98feb21d">
-    <script src="/dinky/assets/js/scale.fix.js"></script>
+    <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+    <link href='https://fonts.googleapis.com/css?family=Arvo:400,700,400italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
   </head>
-  
   <body>
     <div class="wrapper">
-	  <header>
-		<h1 class="header">Eric Heisler</h1>
-		<ul>
-		  <p class="header"><a class="header name" href="https://github.com/pages-themes">About me</a></p>
-		  <p class="header"><a class="header name" href="https://github.com/pages-themes">My projects</a></p>
-		</ul>
-		
-		<SCRIPT TYPE="text/javascript">
-		  <!--
-			  // protected email script by Joe Maller
-			  // JavaScripts available at http://www.joemaller.com
-			  // this script is free to use and distribute
-			  // but please credit me and/or link to my site
-			  
-			  emailE=('heisler17@' + 'gmail.com')
-			  document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')
-			  
-			  //-->
-		</script>
-		<NOSCRIPT>
-		  <em>Please enable JavaScript to view email address.<BR></em>
-		</NOSCRIPT>
-	  </header>
+      <header>
+        <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
-	  <section>
-	  {{ content }}
+        <ul>
+	  <div class="hyperlink"><a href="{{ BASE_PATH }}index" class="active">About me</a></div>
+	  <div class="hyperlink"><a href="{{ BASE_PATH }}projects" class="active">Projects</a></div>
+        </ul>
+	
+	<SCRIPT TYPE="text/javascript">
+	  <!--
+	      // protected email script by Joe Maller
+	      // JavaScripts available at http://www.joemaller.com
+	      // this script is free to use and distribute
+	      // but please credit me and/or link to my site
+	      
+	      emailE=('heisler17@' + 'gmail.com')
+	      document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')
+	      
+	      //-->
+	</script>
+	
+	<NOSCRIPT>
+	  <em>Please enable JavaScript to view email address.<BR></em>
+	</NOSCRIPT>
+	<hr/>
+
+      </header>
+
+      <section>
+        {{ content }}
       </section>
-	  
+
       <footer>
         <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    
+    {% if site.google_analytics %}
+      <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
   </body>
 </html>
