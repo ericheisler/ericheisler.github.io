@@ -6,11 +6,13 @@ title: Research
 
 <h3>Collective behavior of self-propelled particles</h3>
 <p>
-A description 
-<br><a href="a">paper one</a> 
-<br><a href="a">paper two</a> 
-<br><a href="a">paper three</a> 
-<br><a href="a">The code</a> 
+Numerical simulations and theoretical analysis of the dynamics of ensembles of self-propelled particles such as camphor pellets on water.
+<br><a href="c">Simulation code repository</a> (Java)
+<br>Master's thesis (Hiroshima University): <a href="files/msthesis.pdf">Collective dynamics of camphor particles on water</a> (pdf)
+<br><a href="files/Heisler2012.pdf">Swarming of self-propelled camphor boats</a> (pdf) Physical Review E, 2012 Eric Heisler, Nobuhiko J Suematsu, Akinori Awazu, Hiraku Nishimori
+<br><a href="files/Heisler2012b.pdf">Collective motion and phase transitions of symmetric camphor boats</a> (pdf) Journal of the Physical Society of Japan, 2012 Eric Heisler, Nobuhiko J Suematsu, Akinori Awazu, Hiraku Nishimori
+<br><a href="files/Ikura2013">Collective motion of symmetric camphor papers in an annular water channel</a> (pdf) Physical Review E, 2013 Yumihiko S. Ikura, Eric Heisler, Akinori Awazu, Hiraku Nishimori, Satoshi Nakata
+<br><a href="files/Nakata2013">Motion with memory of a self-propelled object</a> (pdf) The Journal of Physical Chemistry C, 2013 Satoshi Nakata, Misato  Hata, Yumihiko  S. Ikura, Eric  Heisler, Akinori  Awazu, Hiroyuki  Kitahata, Hiraku  Nishimori
 </p>
 <br>
 
