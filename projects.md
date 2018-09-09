@@ -40,7 +40,7 @@ A prank which listens for remote control signals, records them, repeats them 30 
 <h3>ATtiny10 programmer using Arduino</h3>
 <p> <img src="images/tiny10.jpg" alt="picture" width="200">
 There were not many resources available for programming ATtiny10 microcontrollers when I started working with them, so I made my own Arduino-based programmer and shared it with the world. It has since been adopted and improved by others, and it is still what I use to work with these tiny chips.
-<br><a href="http://junkplusarduino.blogspot.com/p/attiny10-resources.html">My old blog page</a> with hardware details, programmer code and several useful example programs written in assembly.
+<br><a href="https://hackaday.io/project/161091-attiny10-resources">The hackaday.io project page</a> with hardware details, programmer code and several useful example programs written in assembly.
 <br><a href="https://github.com/ericheisler/ATtiny10Programmer">The GitHub repository</a> with programmer code and example programs.
 </p>
 
