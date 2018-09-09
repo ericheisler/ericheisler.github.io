@@ -10,7 +10,7 @@ These are just some of my more documented projects. There are more on <a href="h
 img {float: right;}
 </style>
 <h3>Classroom music teaching aid</h3> 
-<p> <img src="images/harmonica.jpg" alt="harmonica" width="200">
+<p> <img src="images/harmonica.JPG" alt="harmonica" width="200">
 A device that processes audio input and provides real time visual feedback. It also features wireless control, audio output, and a unique LED display concept.
 <br><a href="https://hackaday.io/project/9657-classroom-music-teaching-aid">The hackaday.io project page</a> with detailed build log, components, demos, images, etc.
 <br><a href="https://github.com/ericheisler/MusicTeachingAid">The GitHub repository</a> with code and diagrams.
@@ -24,7 +24,7 @@ Three fun tiny robots that run around sensing their environment and communicatin
 </p>
 
 <h3>Stargate</h3>
-<p> <img src="images/stargate.jpg" alt="picture" width="200">
+<p> <img src="images/stargate.JPG" alt="picture" width="200">
 A handmade plastic stargate that rotates and lights up when dialing or being dialed to. It also has a dialing remote and communicates via internet to another virtual stargate. 
 <br><a href="https://hackaday.io/project/596-a-functional-stargate">The hackaday.io project page</a> with extensive details on the build process and videos.
 <br><a href="https://github.com/ericheisler/FunctionalStargate">The GitHub repository</a> with code for the stargate, dialer and remote virtual gate as well as all the sound effects.
@@ -45,7 +45,7 @@ There were not many resources available for programming ATtiny10 microcontroller
 </p>
 
 <h3>$10 pcb mill made from recycled electronics</h3>
-<p> <img src="images/pcbmill.jpg" alt="picture" width="200">
+<p> <img src="images/pcbmill.JPG" alt="picture" width="200">
 A crude yet effective pcb mill built from an old printer and other scrap electronics. The total cost for new parts was about $10. It reads an SVG vector graphics file and generates tool paths that are sent to the mill controller which was cobbled together from scraps.
 <br><a href="https://hackaday.io/project/283-pcb-mill-for-under-10">The hackaday.io project page</a> with build details, video, code, schematics, etc.
 <br><a href="https://github.com/ericheisler/PCBMill">The GitHub repository</a> with code and other files.
