@@ -77,4 +77,4 @@ A prop from Stargate. It's a staff with an illuminated head that lights up in va
 A novel idea for a collection of sensor modules placed around the room that talk to each other and discuss their environment while building relationships that favor modules in more ideal locations. Only two modules were actually built before the project was set aside.
 <br><a href="https://hackaday.io/project/2160-a-society-of-things">The hackaday.io project page</a> with build details, videos, schematics, etc.
 <br><a href="https://github.com/ericheisler/SocietyOfThings">The GitHub repository</a> with code.
-</p>
+</p> 
