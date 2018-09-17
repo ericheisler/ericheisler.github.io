@@ -60,7 +60,7 @@ A crosshatching algorithm to add shading ability to pen plotters. I also made a 
 
 <h3>Automated art knitting machine</h3>
 <p> <img src="images/art.jpg" alt="picture" width="200">
-An automated implementation of (http://artof01.com/vrellis/works/knit.html)[Petros Vrellis's knit art]. It approximates an image using only straight black lines, then knits black thread on a circular loom to produce the art. It is much easier to just show you than to explain it, so please look at the project page.
+An automated implementation of <a href="http://artof01.com/vrellis/works/knit.html">Petros Vrellis's knit art</a>. It approximates an image using only straight black lines, then knits black thread on a circular loom to produce the art. It is much easier to just show you than to explain it, so please look at the project page.
 <br><a href="https://hackaday.io/project/13047-automate-the-art">The hackaday.io project page</a> with a much better explanation, video, build details, results.
 <br><a href="https://github.com/ericheisler/AutomatedArt">The GitHub repository</a> with code and other files.
 </p>
