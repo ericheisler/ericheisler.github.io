@@ -13,6 +13,9 @@ img {float: right;}
 <p> <img src="images/henonscreen.png" alt="screen" width="200">
 The Henon map attractor is old hat, but the structure around the basin of attraction is fun to play with. Slide the parameters around or zoom through the fractal structure.
 <br><a href="https://github.com/ericheisler/MathArtBits/tree/master/henon">The repository</a> with Processing sketch, Java code, and windows application.
+<br>
+<br>
+<br>
 </p>
 
 <h3>Iterated function system</h3>
@@ -31,6 +34,8 @@ Explore stochastic resonance and coupled excitable systems with this simulation.
 <p> <img src="images/ngrav2.png" alt="picture" width="200">
 A couple different implementations of N-body gravitation simulations. They are by no means useful for scientific purposes, but they are fun to play with. 
 <br><a href="https://github.com/ericheisler/MathArtBits/tree/master/Nbody">The repository</a> with the Java code.
+<br>
+<br>
 </p>
 
 <h3>2-D random walk of an ensemble of particles</h3>
@@ -49,6 +54,9 @@ Start with a random grid of colors. Let their RGB values be influenced by their 
 <p> <img src="images/spiro.png" alt="picture" width="200">
 Build a virtual harmonograph and play around with parameters before you try building a physical one. It can produce some really cool patterns.
 <br><a href="https://github.com/ericheisler/MathArtBits/tree/master/SpiroDrawer">The repository</a> with Processing sketch, Java code, and windows application.
+<br>
+<br>
+<br>
 </p>
 
 <h3>Patterns in noise</h3>
