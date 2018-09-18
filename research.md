@@ -9,7 +9,7 @@ title: Research
 Numerical simulations and theoretical analysis of the dynamics of ensembles of self-propelled particles such as camphor pellets on water.
 <br>
 <ul>
-<li><a href="c">Simulation code repository</a> (Java)</li>
+<li><a href="https://github.com/ericheisler/CamphorParticleSimulation">Simulation code repository</a> (Java)</li>
 <li>Master's thesis (Hiroshima University): <a href="files/msthesis.pdf">Collective dynamics of camphor particles on water</a> (pdf)</li>
 <li><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.055201">Swarming of self-propelled camphor boats</a> (<a href="https://arxiv.org/pdf/1112.2576.pdf">preprint pdf</a>) Physical Review E, 2012 Eric Heisler, Nobuhiko J Suematsu, Akinori Awazu, Hiraku Nishimori</li>
 <li><a href="https://journals.jps.jp/doi/abs/10.1143/JPSJ.81.074605">Collective motion and phase transitions of symmetric camphor boats</a> (<a href="https://arxiv.org/pdf/1111.6741.pdf">preprint pdf</a>) Journal of the Physical Society of Japan, 2012 Eric Heisler, Nobuhiko J Suematsu, Akinori Awazu, Hiraku Nishimori</li>

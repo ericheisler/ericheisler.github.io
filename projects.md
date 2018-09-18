@@ -25,7 +25,7 @@ Three fun tiny robots that run around sensing their environment and communicatin
 
 <h3>Stargate</h3>
 <p> <img src="images/stargate.JPG" alt="picture" width="200">
-A handmade plastic stargate that rotates and lights up when dialing or being dialed to. It also has a dialing remote and communicates via internet to another virtual stargate. 
+A handmade plastic stargate that rotates and lights up when dialing or being dialed to. It also has a dialing remote and communicates via internet to another virtual stargate. Created in collaboration with <a href="https://dkoptacs.github.io/">Daniel Kopta</a>. 
 <br><a href="https://hackaday.io/project/596-a-functional-stargate">The hackaday.io project page</a> with extensive details on the build process and videos.
 <br><a href="https://github.com/ericheisler/FunctionalStargate">The GitHub repository</a> with code for the stargate, dialer and remote virtual gate as well as all the sound effects.
 </p>
