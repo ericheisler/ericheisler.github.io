@@ -34,6 +34,6 @@ Exploring the properties of some less-common finite difference methods gives sur
 <p>Theoretical analysis and instrumentation development for the Driven Relaxation Experiment. I developed and investigated mathematical models of relaxed plasma configurations. I also built and tested various sensors and equipment for the experiment.
 <br>
 <ul>
-<li><a href="ericsymposiumposter06.png">Poster from American Physical Society 2006 conference</a> Eric Heisler, Scott Hsu</li>
+<li><a href="files/ericsymposiumposter06.png">Poster from American Physical Society 2006 conference</a> Eric Heisler, Scott Hsu</li>
 </ul>
 </p>
