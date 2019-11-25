@@ -6,4 +6,4 @@ title: Eric Heisler
 
 ![](images/aboutpic.JPG)
 
-I'm a maker of many things. This includes electronics, machines, robots, microcontroller programming, mathematical modeling, woodworking, baking, 3D printing, gardening, etc. I am hoping to return to graduate school to learn more about making things.
+I'm a maker of many things. This includes electronics, machines, robots, microcontroller programming, mathematical modeling, woodworking, baking, 3D printing, gardening, etc. I am currently a computer science grad student at the University of Utah learning more about making things.

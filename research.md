@@ -4,6 +4,15 @@ title: Research
 
 ## Projects of a more academic nature
 
+<h3>Numerical problem solving interface</h3>
+<p>
+Just getting started with this one. Part of my computer science PhD research at the University of Utah.
+<br>
+<ul>
+<li> Will update as things progress.
+</p>
+<br>
+
 <h3>Collective behavior of self-propelled particles</h3>
 <p>
 Numerical simulations and theoretical analysis of the dynamics of ensembles of self-propelled particles such as camphor pellets on water.
