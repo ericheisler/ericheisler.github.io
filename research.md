@@ -4,13 +4,16 @@ title: Research
 
 ## Projects of a more academic nature
 
-<h3>Numerical problem solving interface</h3>
+<h3>Finch: a Domain Specific Language for solving PDEs in Julia</h3>
 <p>
-Just getting started with this one. Part of my computer science PhD research at the University of Utah.
+This is my PhD research in computer science at the University of Utah.
 <br>
 <ul>
-<li> Will update as things progress.
-</p>
+<li> <a href="https://github.com/paralab/Finch">The code repository</a> (github)
+<li> A Domain Specific Language Applied to Phonon Boltzmann Transport for Heat Conduction. Presented at the International
+Mechanical Engineering Congress and Exposition 2022</li>
+<li> <a href="https://doi.org/10.1007/978-3-031-08751-6_9">Finch: Domain Specific Language and Code Generation for Finite Element and Finite Volume in Julia</a>. International Conference on Computational Science - ICCS 2022</li>
+</ul>
 <br>
 
 <h3>Collective behavior of self-propelled particles</h3>
