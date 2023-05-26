@@ -9,8 +9,8 @@ title: Research
 This was my PhD research in computer science at the University of Utah.
 <br>
 <ul>
-<li> <a href="https://finchdsl.org">Finch website</a>
-<li> <a href="https://github.com/paralab/Finch">The code repository</a> (github)
+<li> <a href="https://finchdsl.org">Finch website</a></li>
+<li> <a href="https://github.com/paralab/Finch">The code repository</a> (github)</li>
 <li> <a href="https://doi.org/10.1016/j.jocs.2023.101981">Multi-discretization domain specific language and code generation for differential equations</a>. Journal of Computational Science 2023</li>
 <li> <a href="https://doi.org/10.1115/IMECE2022-95034">A Domain Specific Language Applied to Phonon Boltzmann Transport for Heat Conduction</a>. ASME International Mechanical Engineering Congress and Exposition - IMECE 2022</li>
 <li> <a href="https://doi.org/10.1007/978-3-031-08751-6_9">Finch: Domain Specific Language and Code Generation for Finite Element and Finite Volume in Julia</a>. International Conference on Computational Science - ICCS 2022</li>
