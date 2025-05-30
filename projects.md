@@ -51,7 +51,7 @@ A crude yet effective pcb mill built from an old printer and other scrap electro
 <br><a href="https://github.com/ericheisler/PCBMill">The GitHub repository</a> with code and other files.
 </p>
 
-<h3>Crosshatching software for pen plotters and a mini plotter</h3>
+<h3>Crosshatching software for DIY pen plotters</h3>
 <p> <img src="images/crosshatch.jpg" alt="picture" width="200">
 A crosshatching algorithm to add shading ability to pen plotters. I also made a very small plotter from recycled electronics to make use of the software. The results look very nice, but it adds a lot of time to the drawing process.
 <br><a href="https://hackaday.io/project/20585-upgrade-for-your-diy-plotters">The hackaday.io project page</a> with description of the algorithm, build details for the plotter and video.

@@ -30,14 +30,6 @@ Explore stochastic resonance and coupled excitable systems with this simulation.
 <br><a href="https://github.com/ericheisler/MathArtBits/tree/master/FitzHughNagumo">The repository</a> with the Java code.
 </p>
 
-<h3>N-body gravity simulation</h3>
-<p> <img src="images/ngrav2.png" alt="picture" width="200">
-A couple different implementations of N-body gravitation simulations. They are by no means useful for scientific purposes, but they are fun to play with. 
-<br><a href="https://github.com/ericheisler/MathArtBits/tree/master/Nbody">The repository</a> with the Java code.
-<br>
-<br>
-</p>
-
 <h3>2-D random walk of an ensemble of particles</h3>
 <p> <img src="images/randomwalk.png" alt="picture" width="200">
 Perform a 2-D random walk with any number of particles, then plot the statistics to confirm the results your textbook gives. There is also a version with memory, meaning there is an adjustable probability to step the same way as the last step. These statistics are more difficult, but not impossible, to find an analytical solution for.
@@ -65,8 +57,10 @@ Look at some random noise and you will find faces and other common patterns. You
 <br><a href="https://github.com/ericheisler/MathArtBits/tree/master/Buttons">The repository</a> with Processing sketch, Java code, and windows application.
 </p>
 
-<h3>Space dust cloud simulation</h3>
-<p> <img src="images/dusty.png" alt="picture" width="200">
-Make clouds of many particles and collide them. This is not very physically accurate, but it can look interesting.
-<br><a href="https://github.com/ericheisler/MathArtBits/tree/master/dustcloud">The repository</a> with the Java code.
+<h3>N-body gravity simulation</h3>
+<p> <img src="images/ngrav2.png" alt="picture" width="200">
+A couple different implementations of N-body gravitation simulations. They are by no means useful for scientific purposes, but they are fun to play with. 
+<br><a href="https://github.com/ericheisler/MathArtBits/tree/master/Nbody">The repository</a> with the Java code.
+<br>
+<br>
 </p>

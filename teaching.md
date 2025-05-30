@@ -4,8 +4,14 @@ title: Teaching
 
 ## Teaching
 
-<h3>Courses I've taught or am currently teaching</h3>
+<h3>Courses I've taught or will be teaching</h3>
 <p>
+Fall 2025
+<br>
+<ul>
+<li> CS 1400 Intro. to computer programming</li>
+<li> CS 1420 Accelerated intro. to object-oriented programming</li>
+</ul>
 Summer 2025
 <br>
 <ul>
