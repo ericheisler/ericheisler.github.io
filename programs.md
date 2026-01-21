@@ -6,6 +6,8 @@ title: Math/Art programs
 
 Back in the day I wrote dozens of simple applets based on math models, physics simulations, and other things that just looked cool. Then browsers stopped supporting applets... I've since reworked some of them into usable, though less convenient, forms. I'll give you the code for the ones that have been reworked, though most of it is very rough since these are not serious projects, but just fun distractions. Some of them were just made to practice new programming or modeling techniques.
 
+Disclaimer: These are all very old and poorly written. Now that I teach programming, I can see just how bad the code quality is. Live, learn, and never let lack of skill stop you.
+
 <style>
 img {float: right;}
 </style>

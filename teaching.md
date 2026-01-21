@@ -6,6 +6,12 @@ title: Teaching
 
 <h3>Courses I've taught or will be teaching</h3>
 <p>
+Spring 2026
+<br>
+<ul>
+<li> CS 2420 Intro. to algorithms and data structures</li>
+<li> CS 3505 Software practice II</li>
+</ul>
 Fall 2025
 <br>
 <ul>
